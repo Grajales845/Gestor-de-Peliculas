@@ -1,0 +1,16 @@
+Historia de Usuario # 1
+- Como usuario, quiero ver una lista de peliculas disponbiles, para consultar las peliculas que tengo almacenadas.
+
+Historia de Usuario # 2
+- Como usuario, quiero poder filtrar mis películas por genero (acción, comedia, drama, etc.), para encontrar rápidamente las películas.
+
+Historia de Usuario # 3
+- Como usuario, quiero poder marcar las películas como vistas o no vistas, para llevar un registro de las películas que ya he visto y las que aún tengo pendientes de ver.
+  
+Historia de Usuario # 4
+- Como usuario, quiero poder agregar varias películas de una vez desde un archivo CSV, para poder actualizar rápidamente mi colección sin tener que agregar cada película de forma individual.
+  
+Historia de Usuario # 4
+- Como usuario, quiero poder crear listas personalizadas (como “Mis favoritas”, “Películas pendientes”, “Recomendaciones”, etc.), para organizar mejor mi colección de películas según diferentes criterios.
+  
+  
